@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Ubuntu", sans-serif;
+}
+body {
+  background-color: #f0f0f0;
+}
+.head-title {
+  font-family: "Cinzel Decorative", cursive;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+}
+
+.navbar-list {
+  text-transform: uppercase;
+}
+
+.text-size {
+  font-size: 0.8rem;
+}
+
+.t-link:hover {
+  background-color: #f5fdff;
+  color: #fff;
+}
